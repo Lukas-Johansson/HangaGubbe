@@ -7,22 +7,16 @@ import java.util.Scanner;
 public class FurkaDurka {
     public static void main(String[] args) {
 
-        String word = JOptionPane.showInputDialog("Do you want to use prewritten words? (Yes/No): ");
-
-        if (word.equalsIgnoreCase("Yes")) {
-            String Start = JOptionPane.showInputDialog("Do you want to start?");
-        }
-
-        else if (word.equalsIgnoreCase("No")) {
-           String Ownword = JOptionPane.showInputDialog("Please type in your own word");
-
-            String DaGuess = JOptionPane.showInputDialog("Please guess the word");
-            DaGuess =  DaGuess.toUpperCase();
-
-        }
-
+        System.out.println("Please type in your own word");
+        String phrase = input.nextLine();
+        phrase = phrase.trim();
+        phrase = phrase.replaceAll(" ", "  ");
+        phrase = phrase.toUpperCase();
+        String phrase1 = phrase.replaceAll("[A-Z]", "_ ");
     }
+
 }
+
 
 
 
