@@ -10,18 +10,22 @@ public class FurkaDurka {
         System.out.println("Please type in your word");
         Scanner scanner = new Scanner(System.in);
         String word = scanner.nextLine();
-        String[] bert = word.split("");
+        char[] ordtillsak = new char[word.length()];
+        for (int i =0; i<word.length(); i++)
+        {
+            ordtillsak[i] = '_';
+        }
+        System.out.println(ordtillsak);
+§
 
         for (int potatis2 = 0; potatis2 <= bert.length; potatis2++);
         System.out.println("Please guess your first letter");
         Scanner scanner2 = new Scanner(System.in);
         String letter = scanner.next();
-        String hahakort = scanner2.toLowerCase();
 
 
-        if (letter.equals(bert[potatis2])){
 
-        }
+
     }
 
 }
