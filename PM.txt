@@ -1,0 +1,30 @@
+Post Mortem | Hängagubbe
+
+Jag har försökt skapa ett hängagubbe spel i språket java. Denna uppgift är för att förbättra våra kunskaper av java samt hur man ska hantera större projekt. 
+
+Med denna uppgift så har jag lärt mig hur man ska tänka då man gör olika projekt samt hur man ska hitta bättre info och kunskap från internet samt boken som kommer kunna hjälpa
+mig i framtiden.
+
+Jag valde att göra projektet i mindre delar för att enkelt och simpelt kunna se vilka delar som ska göras och kunna dela upp projektet i mindre mer görbara bitar. 
+Samt så testade jag alla delar efter att de var skrivna för att enkelt testa om de funkade som jag hade tänkt mig.
+
+De olika delarna jag valde att bygga var 
+[Läsa in ordet från personen]
+[Göma ordet och göra den till en array]
+[Printa ut det göma ordet och be personen gissa]
+[Läs in bokstaven och kolla om den hade fel]
+[Lägg till felet i en counter eller inte]
+[Printa ut en bit av gubben om det var fel annars låt personen fortsätta]
+[Om för många fel avsluta spelet eller gratulera personen för vinsten]
+
+Fick lära mig mycket om scanners och hur man läser in inputs samt mer användning av for loopar och variabler. Dessa saker tog en tag att fundera ut med hjälp från internet och vänner.
+Men gav mig en bättre förståelse av till de olika delarna och hur de funkar samt hur jag ska kunna använda de olika delarna i framtida projekt. 
+
+Det som har gått lite mindre bättre är själva produkten jag la lite för mycket tid på att starta projektet vilket ledde till en avslutning med ett halvt fungerande projekt som 
+inte är klar på den nivå som jag ville uppnå. Till nästa projekt så kommer jag snabbt dela upp den i bitar och börja på direkten att försöka lösa samt tänka ut en lösning 
+i en logisk summa tid. 
+
+Hela projektet i sig var en bra övning som gav mig mycket träning och användning av tidigare kunskaper och fick mig att testa mina gränser och lära mig nya saker som scanner vilket leder
+till ett bättre förståelse till språket och kunskap till programmering. Det fanns ett par brister med det sättet jag la upp att skriva koden men jag kom en helt okej bit och har lyckats
+helt okej med den tid jag hade och fick. Kommer mest troligen arbeta lite mer hemma samt jobba mer effektivt på lektionerna för att få en bättre slutprodukt.
+
