@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FurkaBurka:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FurkaBurka_jar</output-path>
+    <root id="archive" name="FurkaBurka.jar">
+      <element id="module-output" name="FurkaBurka" />
+    </root>
+  </artifact>
+</component>
